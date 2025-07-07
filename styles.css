@@ -1,5 +1,5 @@
 .container {
-  background-color: hsl(212, 45%, 89%);
+  background-color: #D5E1EF;
   display: flex;
   width: 100vw;
   height: 100vh;
@@ -10,22 +10,22 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 11px;
   text-align: center;
-  padding: 12px 12px 24px;
+  padding: 16px 16px 24px;
   background-color: white;
   width: 288px;
-  border-radius: 12px;
+  border-radius: 20px;
   box-shadow: 0 1px 16px #0000002a;
 }
 .qr-code {
   width: 288px;
-  border-radius: 12px;
+  border-radius: 10px;
 }
 .heading {
   font-size: 20px;
   font-weight: bold;
-  color: #28304b;
+  color: #1F314F;
 }
 .paragraph {
   font-size: 16px;
-  color: #a3a8af;
+  color: #68778D;
 }
